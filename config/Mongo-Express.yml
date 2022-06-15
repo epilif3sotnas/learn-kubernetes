@@ -42,7 +42,7 @@ metadata:
   name: mongodb-express-service
 spec:
   selector:
-    app: mongodb
+    app: mongo-express
   type: LoadBalancer
   ports:
   - protocol: TCP
