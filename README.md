@@ -1,15 +1,15 @@
-# About learn-docker
+## About learn-docker
 
 In this repository was followed a tutorial in order to learn kubernetes technology. The tutorial is the following -> [Tutorial](https://www.youtube.com/watch?v=X48VuDVv0do&t=6380s)
 
 
-# Requirements (Docker images)
+## Requirements (Docker images)
 
 - [MongoDB](https://hub.docker.com/_/mongo)
 - [Mongo Express](https://hub.docker.com/_/mongo-express)
 
 
-# Run
+## Run
 
 Commands to run it:
 
@@ -21,6 +21,6 @@ bash Run.sh
 ```
 
 
-# License
+## License
 
 Licensed under Apache-2.0 license.
